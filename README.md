@@ -55,7 +55,7 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/create-replace-root-volume-
 ### Example Session
 
 ```bash
-$ python ec2_root_recovery.py
+$ python ec2_recover.py
 #####################################################################
 #                           DISCLAIMER                              #
 #####################################################################
