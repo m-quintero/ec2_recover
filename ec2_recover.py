@@ -28,7 +28,6 @@ def print_disclaimer():
     print("By using this tool, YOU ACKNOWLEDGE AND AGREE that:")
     print("1. You have full knowledge of the actions this tool will perform.")
     print("2. You accept all liability for the use of this tool.")
-    print("3. This tool will provide an option to delete the root storage volume")
     print("   This action CANNOT BE UNDONE.")
     print(Fore.RED + "#####################################################################")
     print(Style.RESET_ALL)
