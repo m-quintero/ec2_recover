@@ -75,8 +75,6 @@ WARNING: This tool can perform DESTRUCTIVE operations.
 By using this tool, YOU ACKNOWLEDGE AND AGREE that:
 1. You have full knowledge of the actions this tool will perform.
 2. You accept all liability for the use of this tool.
-3. You accept all liability for the use of this tool.
-4. This tool will provide an option to delete the root storage volume
    This action CANNOT BE UNDONE.
 #####################################################################
 
